@@ -1,3 +1,5 @@
+# 自我介绍
+## 我的一些简单信息
 - 👋 Hi, I’m @Henk
 - 👀 I’m interested in studying Bioinformatics with R & Python
 - 🌱 I’m currently learning Python
